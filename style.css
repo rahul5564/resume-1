@@ -8,8 +8,8 @@
     padding-top: 15px;
 }
 #pic{
-    border-radius: 100px;
-    height: 165px;
+    border-radius: 12rem;
+    height: 90px;
     border: 3.5px dotted black;
 }
 .name{
